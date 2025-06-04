@@ -1,7 +1,7 @@
 # 🌿 TansoZero-Data
 
 탄소중립 사회 실현을 위한 **탄소회피량 예측 및 시뮬레이션 프로젝트**  
-📎 [최종 발표 슬라이드 보기](https://drive.google.com/file/d/1WZzbaHB4j0O3t4Hs92imLdY7p7ZHioIb/view?usp=sharing)    
+📎 [최종 발표 슬라이드 보기](https://drive.google.com/file/d/1XJqd690P9e3aHZugaLu4Xr2QeRB-iUXA/view?usp=sharing)    
 
 ![대표 이미지](https://github.com/user-attachments/assets/938ef44b-7b51-4e0c-87a9-f9c516c4257a)  
 
